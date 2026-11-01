@@ -1,5 +1,5 @@
-## SiNKAN Lab
-
+## SiNKAN Space
+組み込み,Web開発,3Dゲーム開発,自動操縦,組み込みAIなど,興味があることへの学習及び開発用個人Organization
 ### 成果物
 
 <!--
